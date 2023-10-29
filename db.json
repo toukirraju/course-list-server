@@ -3,52 +3,62 @@
     {
       "name": "course 1",
       "content": "This course content from course 1",
-      "id": 1
+      "id": 1,
+      "completed": true
     },
     {
       "name": "course 2",
       "content": "This course content from course 2",
-      "id": 2
+      "id": 2,
+      "completed": true
     },
     {
       "name": "course 3",
       "content": "This course content from course 3",
-      "id": 3
+      "id": 3,
+      "completed": false
     },
     {
       "name": "course 4",
       "content": "This course content from course 4",
-      "id": 4
+      "id": 4,
+      "completed": true
     },
     {
       "name": "course 5",
       "content": "This course content from course 5",
-      "id": 5
+      "id": 5,
+      "completed": false
     },
     {
       "name": "course 6",
       "content": "This course content from course 6",
-      "id": 6
+      "id": 6,
+      "completed": true
     },
     {
       "name": "course 7",
       "content": "This course content from course 7",
-      "id": 7
+      "id": 7,
+      "completed": false
     },
     {
       "name": "course 8",
       "content": "This course content from course 8",
-      "id": 8
+      "id": 8,
+      "completed": false
     },
     {
       "name": "course 9",
       "content": "This course content from course 9",
-      "id": 9
+      "id": 9,
+      "completed": false
     },
     {
       "name": "course 10",
       "content": "This course content from course 10",
-      "id": 10
+      "id": 10,
+      "completed": true
     }
   ]
 }
